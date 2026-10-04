@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+p {
+    color: blue;
+    font-size: 20px;
+}
+
+.student1 {
+    color: brown;
+}
+
+.student2 {
+    color: blueviolet;
+}
